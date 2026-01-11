@@ -4,7 +4,7 @@ basic code for if/else if/if
 public class IfElse
 
     public static void main(String[]args){
-        int x=100;
+        byte x=100;
 
         if (x>=100){
             System.out.println("RICH");
