@@ -20,5 +20,11 @@ public class IfElse
 
         }else 
         System.out.println("POOR");
+
+// Or the shorter version
+    x=100
+    String result = x >=100 ? "RICH" : x >= 70 ? 
+"COMFORT" : x >= 50 ? "NORMAL" : x >= 20 ? "SMALL"
+: "POOR";
           }
 }
