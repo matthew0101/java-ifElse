@@ -1,5 +1,5 @@
 # java-ifElse
-basic code for if/else if/if
+basic code for if/else if/else
 
 public class IfElse
 
